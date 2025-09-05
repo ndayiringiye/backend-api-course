@@ -11,6 +11,7 @@ function App() {
       <Footer/>
       <ClickHander/> 
       <ShowHideExample/>
+      <ShowHideExample />
     </div>
   )
 }
